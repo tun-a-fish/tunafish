@@ -1,3 +1,3 @@
 ---
-list_title: 
+list_title: lists
 ---
