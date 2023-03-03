@@ -1,3 +1,8 @@
+---
+title: "Damn cold night"
+date: 2023-03-03
+---
+
 It's a damn cold night.
 Try'na figure out this life.
 Won't you take my by the hand take me somewhere new?
